@@ -737,15 +737,15 @@ section {
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
   font-family: "Poppins", sans-serif;
-  background-color: white;;/* modification */
-  border-radius: 0.5rem;/* modification */
+  background-color: white;
+  border-radius: 0.5rem;
   box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
 }
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #fff;/* modification */
-  background: #009cea;/* modification */
+  color: #fff;
+  background: #009cea;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1391,7 +1391,7 @@ section {
   background: #fff;
   width: 100%;
   border: 2px solid #e9ecee;
-  border-radius: 4px;
+  border-radius: 15px;
 }
 
 .contact .info i {
@@ -1421,6 +1421,11 @@ section {
   margin-bottom: 20px;
   font-size: 14px;
   color: #627680;
+}
+
+iframe {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 15%);
 }
 
 .contact .info .social-links {
@@ -1459,7 +1464,7 @@ section {
   padding: 30px;
   background: #fff;
   border: 2px solid #e9ecee;
-  border-radius: 4px;
+  border-radius: 15px;
 }
 
 .contact .php-email-form .form-group {
@@ -1510,7 +1515,7 @@ section {
 
 .contact .php-email-form input,
 .contact .php-email-form textarea {
-  border-radius: 0;
+  border-radius: 8px;
   box-shadow: none;
   font-size: 14px;
 }
@@ -1529,7 +1534,7 @@ section {
   padding: 10px 24px;
   color: #fff;
   transition: 0.4s;
-  border-radius: 4px;
+  border-radius: 0.5rem;
 }
 
 .contact .php-email-form button[type=submit]:hover {
