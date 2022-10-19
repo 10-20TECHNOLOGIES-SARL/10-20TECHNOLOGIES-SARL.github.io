@@ -1137,7 +1137,11 @@ section {
   text-align: center;
 }
 
-.col-lg-20pourcent {
+.clients-bg{
+  background: rgba(13, 13, 247, .03);
+}
+
+.clients-brand {
   flex: 0 0 auto;
   width: 20%;
 }
