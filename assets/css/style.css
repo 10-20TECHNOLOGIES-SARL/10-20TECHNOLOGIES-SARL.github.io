@@ -1277,6 +1277,7 @@ section {
 
 .clients-bg{
   background: rgba(13, 13, 247, .03);
+  border-radius: 1rem;
 }
 
 .clients-brand {
