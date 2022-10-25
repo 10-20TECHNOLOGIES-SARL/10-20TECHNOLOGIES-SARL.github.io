@@ -588,6 +588,11 @@ section {
   color: #28a745;
 }
 
+.about .content p {
+  text-align:justify;  
+  text-justify:auto;
+}
+
 .about .content p:last-child {
   margin-bottom: 0;
 }
