@@ -634,7 +634,8 @@ section {
   color: #28a745;
 }
 
-.about .content p {
+.about .content p,
+.services .content p {
   text-align:justify;  
   text-justify:auto;
 }
@@ -1070,7 +1071,7 @@ section {
   color: #576971;
 }
 
-.cta .cta-btn {
+.cta .cta-btn, .cta-btn {
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 15px;
@@ -1084,7 +1085,8 @@ section {
   background: #009cea;
 }
 
-.cta .cta-btn:hover {
+.cta .cta-btn:hover,.cta-btn:hover:hover {
+  color: #fff;
   background: #008bd1;
   box-shadow: 0 2px 6px rgb(0 0 0 / 45%);
 }
