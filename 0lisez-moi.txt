@@ -1,0 +1,17 @@
+Liens deploiement AWS
+
+    S3 bucket link AWS
+    http://1020-static-web-bj.s3-website-us-east-1.amazonaws.com 
+
+    Cloufront Distribution AWS
+    https://dgo8ajafloyfk.cloudfront.net
+ 
+lien serveur 1020 web ancien : Instance ec2 Off http://34.65.51.37/
+
+    Instance EC2 Linux Deploiement ubuntu  // AWS
+    http://ec2-15-222-233-1.ca-central-1.compute.amazonaws.com/ 
+
+    http://15.222.233.1/
+
+Vercel App
+    https://1020technologiesbj.vercel.app/
