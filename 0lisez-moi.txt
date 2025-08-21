@@ -15,3 +15,4 @@ lien serveur 1020 web ancien : Instance ec2 Off http://34.65.51.37/
 
 Vercel App
     https://1020technologiesbj.vercel.app/
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
